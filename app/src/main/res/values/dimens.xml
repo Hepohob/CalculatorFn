@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="campaign_textfontsize">32dp</dimen>
+    <dimen name="oper_textfontsize">30dp</dimen>
+    <dimen name="fn_textfontsize">22dp</dimen>
+    <dimen name="scr_textfontsize">42dp</dimen>
+</resources>
